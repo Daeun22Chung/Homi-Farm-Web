@@ -1,0 +1,197 @@
+
+
+body {
+    font-family: 'Signika', 'Noto Sans KR', san-serif;
+    font-size: 18px;
+    line-height: 2;
+}
+
+
+img {
+    max-width: 100%;
+}
+
+
+
+.home-page header {
+    height: 90vh;
+    background: url("./photo/mainphoto.jpeg") no-repeat center top/cover;
+    padding-top: 200px;
+
+}
+
+
+.list-group {
+    width: 100%;
+    visibility : hidden;
+    height: 0;
+    opacity: 0;
+    transition: all 1s;
+}
+.show {
+    width: 100%;
+    visibility : visible;
+    height: 400px;
+    overflow: hidden;
+    opacity: 1;
+}
+
+nav {
+    position: relative;
+    top: -280px
+}
+
+
+
+ul>li {
+    background-color: seashell;
+    /*margin-bottom: 20px;*/
+    width: 90%;
+    margin: 20px auto;
+}
+
+ul>li>a {
+    display: block;
+}
+
+ul>li>a:hover {
+    filter: brightness(110%);
+}
+
+
+
+
+/*푸터 디자인*/
+
+
+footer {
+    background-color: darkred;
+    color: black;
+    /*height: 600px;*/
+    padding: 1px;
+
+}
+
+.form-bg-light {
+    background-color: darksalmon;
+    margin:50px auto;
+    width: 80%;
+    padding: 40px;
+}
+
+
+.form-input {
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+    background-color: seashell;
+    border: 1px solid cornflowerblue;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.w50 {
+    width: 50%;
+    float: left;
+    padding: 10px;
+
+}
+
+.check-sub {
+    padding: 8px;
+    background-color: seashell;
+    border: 1px solid cornflowerblue;
+}
+
+.form-button {
+    background-color: yellow;
+    padding: 10px;
+    border: 1px solid cornflowerblue;
+
+}
+
+.button-box {
+    text-align: right;
+}
+
+
+@media screen and (min-width: 920px) {
+
+
+    .home-page main {
+        height: 700px;
+    }
+
+    nav {
+        width: 100vw;
+    }
+
+    .home-page header{
+        height: 50vh;
+    }
+
+    .home-page main ul {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .home-page main li {
+        flex-basis: 40%;
+    }
+
+    .home-page main li img {
+        width: 50%;
+    }
+
+    main ul>li {
+        background-color: seashell;
+        margin-bottom: 20px;
+        width: 90%;
+        margin: 50px auto;
+    }
+
+    .main-title {
+        position: relative;
+        top: -65px;
+        left: 80px;
+        font-size: 27px;
+
+    }
+
+
+    .form-bg-light {
+        margin:50px auto;
+        width: 40%;
+        padding: 40px;
+    }
+
+    /*.home-page header {*/
+    /*    flex-basis: 38%;리*/
+    /*    height: 100vh;*/
+    /*}*/
+    /*.home-page main {*/
+    /*    flex-basis: 38%;*/
+    /*    margin-bottom: 0;*/
+    /*    display: flex;*/
+    /*    align-items: center;*/
+    /*}*/
+
+    /*.main-list {*/
+    /*    display: flex;*/
+    /*    flex-wrap: wrap;*/
+    /*    max-width: 800px;*/
+    /*    margin: 0 auto;*/
+    /*    justify-content: space-around;*/
+    /*}*/
+
+    /*.main-list li {*/
+    /*    flex-basis: 47%;*/
+    /*    margin-bottom: 20px;*/
+    /*}*/
+
+
+
+}
+
