@@ -13,7 +13,10 @@ https://daeun22chung.github.io/html-css/
 </p>
 
 
-## 데스크탑 메인 페이지
+## 데스크탑 실행화면
+<p align="center">
+  <img src="https://github.com/Daeun22Chung/html-css/assets/164187336/cf2ad5e4-83f1-4c93-8db3-bb77b70d0ab1">
+</p>
 
 
 
