@@ -9,13 +9,13 @@ https://daeun22chung.github.io/html-css/
 
 ## 모바일 실행화면
 <p align="center">
-  <img src="https://github.com/Daeun22Chung/html-css/assets/164187336/47209a6f-788e-4c1b-80e2-1f75fc8e4bb0">
+  <video src="https://github.com/Daeun22Chung/html-css/assets/164187336/47209a6f-788e-4c1b-80e2-1f75fc8e4bb0">
 </p>
 
 
 ## 데스크탑 실행화면
 <p align="center">
-  <img src="https://github.com/Daeun22Chung/html-css/assets/164187336/cf2ad5e4-83f1-4c93-8db3-bb77b70d0ab1">
+  <video src="https://github.com/Daeun22Chung/html-css/assets/164187336/cf2ad5e4-83f1-4c93-8db3-bb77b70d0ab1">
 </p>
 
 
