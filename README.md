@@ -8,5 +8,5 @@ https://daeun22chung.github.io/html-css/
 
 
 ## 모바일 실행화면
-
+Uploading 322816758-b7fd97b7-dfae-4e35-9228-badba2850901 (1).mov…
 
